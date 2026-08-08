@@ -3,7 +3,64 @@
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
 ---
+# NeetCode Solutions
 
+My solutions to coding problems from [NeetCode](https://neetcode.io/), focused on Data Structures and Algorithms and technical interview preparation.
+
+## About
+
+This repository contains my solutions to problems I have solved while preparing for Software Development Engineer (SDE) interviews.
+
+The solutions are organized by problem and topic, making it easy to review different DSA patterns and approaches.
+
+## Topics Covered
+
+- Arrays & Hashing
+- Two Pointers
+- Sliding Window
+- Stack
+- Binary Search
+- Linked List
+- Trees
+- Tries
+- Heap / Priority Queue
+- Backtracking
+- Graphs
+- Advanced Graphs
+- 1-D Dynamic Programming
+- 2-D Dynamic Programming
+- Greedy
+- Intervals
+- Math & Geometry
+- Bit Manipulation
+
+## Languages
+
+Most of the solutions in this repository are written in:
+
+- Java
+
+## Repository Structure
+
+```text
+NeetCode Solutions/
+│
+├── Arrays & Hashing/
+├── Two Pointers/
+├── Sliding Window/
+├── Stack/
+├── Binary Search/
+├── Linked List/
+├── Trees/
+├── Tries/
+├── Heap/
+├── Backtracking/
+├── Graphs/
+├── Dynamic Programming/
+├── Greedy/
+├── Intervals/
+├── Math & Geometry/
+└── Bit Manipulation/
 ## What is this?
 
 [NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
